@@ -1,5 +1,5 @@
 WEAPON.NAME = "MP5K"
-WEAPON.INFORMATION = "Ey Thats P Good"
+WEAPON.INFORMATION = "The MP5K is a shortened version of the MP5 Sub Machine Gun."
 WEAPON.MODEL = "models/weapons/w_mp5k.mdl"
 WEAPON.SKIN = 0
 WEAPON.SWEP = "cw_poseidon_mp5k"

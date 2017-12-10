@@ -1,0 +1,17 @@
+
+local WORKBENCH = {}
+
+WORKBENCH.NAME = "Carpentry"
+WORKBENCH.INFORMATION = "A carpentry station"
+WORKBENCH.MODEL = "models/props/cs_militia/wood_table.mdl"
+WORKBENCH.SKIN = 0
+
+WORKBENCH.ENTITY = "craftingmod_workbench" -- DONT CHANGE THIS!
+
+WORKBENCH.SELL = 200
+WORKBENCH.BUY = 500
+
+WORKBENCH.WEIGHT = 5
+
+CRAFTINGMOD.WORKBENCHES:Register(WORKBENCH)
+CRAFTINGMOD.ITEMS:Register(WORKBENCH)

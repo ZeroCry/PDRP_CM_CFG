@@ -1,0 +1,14 @@
+local WEAPON = {}
+
+WEAPON.NAME = "Glock 20"
+WEAPON.INFORMATION = "A gun."
+WEAPON.MODEL = "models/weapons/b_glock20.mdl"
+WEAPON.SKIN = 0
+WEAPON.SWEP = "fas2_glock20"
+
+WEAPON.SELL = 100
+WEAPON.BUY = 215
+
+WEAPON.WEIGHT = 3
+
+CRAFTINGMOD.WEAPONS:Register(WEAPON)

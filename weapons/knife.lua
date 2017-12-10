@@ -1,12 +1,12 @@
 WEAPON.NAME = "Knife"
-WEAPON.INFORMATION = "Ey Thats P Good"
+WEAPON.INFORMATION = "A Standard Combat Knife."
 WEAPON.MODEL = "models/weapons/w_marinebayonet.mdl"
 WEAPON.SKIN = 0
 WEAPON.SWEP = "cw_poseidon_knife"
  
-WEAPON.SELL = 0
-WEAPON.BUY = 0
+WEAPON.SELL = 325
+WEAPON.BUY = 400
  
-WEAPON.WEIGHT = 5
+WEAPON.WEIGHT = 0.25
  
 CRAFTINGMOD.WEAPONS:Register(WEAPON)

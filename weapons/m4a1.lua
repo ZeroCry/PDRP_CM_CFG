@@ -1,0 +1,12 @@
+WEAPON.NAME = "M4A1"
+WEAPON.INFORMATION = "Ey Thats P Good"
+WEAPON.MODEL = "models/weapons/w_m4a1.mdl"
+WEAPON.SKIN = 0
+WEAPON.SWEP = "cw_poseidon_m4a1"
+ 
+WEAPON.SELL = 0
+WEAPON.BUY = 0
+ 
+WEAPON.WEIGHT = 5
+ 
+CRAFTINGMOD.WEAPONS:Register(WEAPON)

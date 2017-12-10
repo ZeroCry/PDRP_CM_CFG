@@ -1,5 +1,5 @@
 WEAPON.NAME = "Cobra"
-WEAPON.INFORMATION = "Ey Thats P Good"
+WEAPON.INFORMATION = "A medium frame double-action 6 cylinder revolver"
 WEAPON.MODEL = "models/weapons/w_cw_kk_ins2_cstm_cobra.mdl"
 WEAPON.SKIN = 0
 WEAPON.SWEP = "cw_poseidon_cobra"
